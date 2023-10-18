@@ -1,4 +1,3 @@
-import logo from "./logo.jpeg";
 import robot from "./robot.jpeg";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -10,7 +9,6 @@ import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 
 export {
-  logo,
   robot,
   menu,
   close,
